@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://leetcode.com/u/devamsh06/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-1822%20Rating-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-1921%20Rating-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <a href="https://www.codechef.com/users/devamsh06" target="_blank">
