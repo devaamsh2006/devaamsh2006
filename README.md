@@ -7,6 +7,36 @@
 
 ---
 
+<p align="center">
+
+<a href="mailto:devamsh2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://devamshportfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/devaamsh2006" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/devaamsh-gangishetti-2441b6295/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/devamsh06/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-1822%20Rating-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.codechef.com/users/devamsh06" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-Div%203-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</p>
+
+---
+
 ## 🧠 `whoami`
 
 ```cpp
@@ -54,7 +84,7 @@ I like systems that feel **fast**, **clean**, and **production-ready**.
 
 # 🚀 Featured Projects
 
-## 📸 Photography Service Platform
+## 📸 [ReelStudios — Photography Service Platform](https://github.com/devaamsh2006/reelstudios)
 
 Real-time photographer-client platform with geospatial matching and booking workflows.
 
@@ -69,7 +99,7 @@ Real-time photographer-client platform with geospatial matching and booking work
 
 ---
 
-## 📦 Inventory Stock Prediction System
+## 📦 [Inventory Stock Prediction System](https://github.com/Aakruthi88/Stock-Prediction)
 
 ML-powered inventory forecasting and stock-out prediction platform.
 
@@ -84,7 +114,7 @@ ML-powered inventory forecasting and stock-out prediction platform.
 
 ---
 
-## 🧠 Fake Account Detection using GNNs
+## 🧠 [Fake Account Detection using GNNs](https://github.com/devaamsh2006/Fake_accounts_detection_using_gnn)
 
 Graph Neural Network pipeline for detecting fake social media accounts.
 
@@ -99,7 +129,7 @@ Graph Neural Network pipeline for detecting fake social media accounts.
 
 ---
 
-## 🚌 Bus Booking Platform
+## 🚌 [Bus Booking Platform](https://github.com/devaamsh2006/bus-booking-app)
 
 Full-stack booking platform with dynamic seat selection and booking management.
 
@@ -118,27 +148,53 @@ Full-stack booking platform with dynamic seat selection and booking management.
 
 ## 💻 Languages
 
-`C` `C++` `Python` `JavaScript` `Java`
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
+</p>
 
 ## 🌐 Frontend
 
-`React` `Next.js` `HTML` `CSS` `TailwindCSS`
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
 
 ## 🔧 Backend & Databases
 
-`Node.js` `Express.js` `MongoDB` `Firebase` `SQL` `Supabase`
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,mysql" />
+</p>
 
 ## 🤖 AI / ML
 
-`Scikit-learn` `XGBoost` `PyTorch` `Pandas` `NumPy`
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
 ## 🛠 Tools
 
-`Git` `GitHub` `REST APIs` `Flask`
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
 # 🧩 DSA & Competitive Programming
+
+<p align="center">
+
+<a href="https://leetcode.com/u/devamsh06/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/devamsh06?theme=dark&font=Nunito&ext=heatmap" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.codechef.com/users/devamsh06" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programmer-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</p>
 
 ```txt
 LeetCode Rating  : 1822
@@ -221,15 +277,45 @@ goal:
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devaamsh2006&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaamsh2006&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devaamsh2006&theme=tokyonight" />
+
+</p>
+
+---
+
 # 📫 Connect With Me
 
-📧 Email: `devamsh2006@gmail.com`
+<p align="center">
 
-🌐 Portfolio:
-`https://devamshportfolio.netlify.app/`
+<a href="mailto:devamsh2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-💻 GitHub:
-`https://github.com/devaamsh2006`
+<a href="https://devamshportfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/devaamsh2006" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/devaamsh-gangishetti-2441b6295/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
