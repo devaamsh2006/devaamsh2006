@@ -197,7 +197,7 @@ Full-stack booking platform with dynamic seat selection and booking management.
 </p>
 
 ```txt
-LeetCode Rating  : 1822
+LeetCode Rating  : 1921
 Problems Solved  : 400+
 CodeChef         : Div 3
 ```
