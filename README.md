@@ -1,326 +1,589 @@
-<h1 align="center">Hey, I'm Devaamsh 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Developer • ML Engineer • Problem Solver • Team Leader</b><br/>
-  Building systems that are fast, scalable, and actually useful.
-</p>
+# 👋 Hey, I'm Devaamsh Gangishetti
 
----
+### 💻 Full-Stack Developer • 🤖 ML Systems Builder • 🧠 Problem Solver
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Full-Stack+Products;Exploring+AI+%26+Machine+Learning;Designing+Real-Time+Systems;Solving+Problems+with+C%2B%2B;Turning+Ideas+into+Production-Ready+Products" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=devaamsh2006&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://img.shields.io/github/followers/devaamsh2006?label=Followers&style=social" />
+
+<img src="https://img.shields.io/github/stars/devaamsh2006?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+
+<br/><br/>
+
+<a href="https://devamshportfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="mailto:devamsh2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://devamshportfolio.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://github.com/devaamsh2006" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/devaamsh-gangishetti-2441b6295/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/devamsh06/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-1921%20Rating-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://www.codechef.com/users/devamsh06" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-Div%203-brown?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-</p>
+</div>
 
 ---
 
-## 🧠 `whoami`
+# 🚀 About Me
 
 ```cpp
 class Devaamsh {
+
 public:
 
-    string role = "Full-Stack Developer & ML Systems Builder";
+    string role =
+        "Full-Stack Developer & ML Systems Builder";
 
-    vector<string> focus = {
-        "AI-powered applications",
-        "real-time systems",
-        "scalable full-stack products",
-        "data-driven platforms"
+    vector<string> interests = {
+        "AI-powered Applications",
+        "Scalable Web Systems",
+        "Machine Learning",
+        "Real-Time Platforms",
+        "System Design"
     };
 
-    string currentlyBuilding =
-        "Next.js + Firebase + ML-powered products";
+    vector<string> buildingWith = {
+        "Next.js",
+        "React",
+        "Node.js",
+        "Firebase",
+        "Python",
+        "Machine Learning"
+    };
 
     string learning =
-        "Advanced Machine Learning, System Design & AI Engineering";
+        "AI Engineering | System Design | Advanced Backend";
 
     string dsa =
-        "C++ · LeetCode · competitive problem solving";
-
-    bool leadership = true;
-    bool teamwork   = true;
-    bool shippingProducts = true;
+        "C++ | LeetCode | Competitive Programming";
 
     string education =
-        "B.Tech CSE @ VNR VJIET (2023–2027)";
+        "B.Tech CSE @ VNR VJIET (2023 - 2027)";
 
-    string contact =
-        "devamsh2006@gmail.com";
-
-    string portfolio =
-        "https://devamshportfolio.netlify.app/";
+    bool ownership = true;
+    bool teamwork = true;
+    bool leadership = true;
+    bool shipProducts = true;
 };
 ```
 
-I enjoy building products from scratch — from backend architecture and APIs to polished frontend experiences and ML integrations.
+I enjoy taking ideas from **concept → architecture → implementation → deployment**.
 
-I like systems that feel **fast**, **clean**, and **production-ready**.
+My interests lie at the intersection of **software engineering, machine learning, and scalable systems**.
 
----
+I particularly enjoy building applications that are:
 
-# 🚀 Featured Projects
-
-## 📸 [ReelStudios — Photography Service Platform](https://github.com/devaamsh2006/reelstudios)
-
-Real-time photographer-client platform with geospatial matching and booking workflows.
-
-### Highlights
-
-- Nearby photographer discovery using H3 indexing
-- Real-time booking management
-- Firebase-powered backend
-- Responsive modern UI
-
-`Next.js` `Firebase` `TailwindCSS` `Geospatial Systems`
+```text
+⚡ Fast
+📈 Scalable
+🧠 Intelligent
+🎨 Clean
+🚀 Production-Ready
+```
 
 ---
 
-## 📦 [Inventory Stock Prediction System](https://github.com/Aakruthi88/Stock-Prediction)
+# 🌟 Featured Projects
 
-ML-powered inventory forecasting and stock-out prediction platform.
+<table>
 
-### Highlights
+<tr>
 
-- Demand forecasting using Random Forest & XGBoost
-- REST API integration with Flask
-- Data visualization and analytics
-- Risk prediction workflows
+<td width="50%" valign="top">
+
+## 📸 ReelStudios
+
+### Photography Service Platform
+
+A geospatial marketplace connecting photographers and clients through real-time discovery and booking workflows.
+
+### ⚡ Features
+
+* 📍 H3-based photographer discovery
+* ⚡ Real-time booking workflows
+* 🔥 Firebase-powered backend
+* 📱 Responsive user experience
+* 🗺️ Location-based matching
+
+### 🛠 Stack
+
+`Next.js` `Firebase` `TailwindCSS` `H3`
+
+<br/>
+
+<a href="https://github.com/devaamsh2006/reelstudios">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📦 Inventory Intelligence
+
+### Stock Prediction System
+
+An ML-driven platform designed to forecast demand, identify stock-out risks, and support intelligent inventory decisions.
+
+### ⚡ Features
+
+* 📈 Demand forecasting
+* 🚨 Stock-out prediction
+* 🧠 Ensemble ML models
+* 🔗 Flask REST APIs
+* 📊 Analytics & visualization
+
+### 🛠 Stack
 
 `Python` `Flask` `Scikit-learn` `XGBoost` `SQL`
 
+<br/>
+
+<a href="https://github.com/Aakruthi88/Stock-Prediction">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧠 Fake Account Detection
+
+### Graph Neural Network System
+
+Graph-based machine learning pipeline for detecting suspicious and fake accounts through user relationships.
+
+### ⚡ Features
+
+* 🕸️ User relationship graphs
+* 🧠 Graph Neural Networks
+* 🔬 GCN architecture
+* 🔗 GraphSAGE
+* 🎯 94.5% ROC-AUC
+
+### 🛠 Stack
+
+`Python` `PyTorch` `PyTorch Geometric` `GCN` `GraphSAGE`
+
+<br/>
+
+<a href="https://github.com/devaamsh2006/Fake_accounts_detection_using_gnn">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚌 Bus Booking Platform
+
+### Full-Stack Booking Application
+
+End-to-end booking platform supporting authentication, seat selection, booking management, and driver opportunities.
+
+### ⚡ Features
+
+* 🔐 Authentication
+* 💺 Dynamic seat selection
+* 🎫 Booking management
+* 🔌 REST APIs
+* 👨‍✈️ Driver job listings
+
+### 🛠 Stack
+
+`React` `Node.js` `Express` `MongoDB`
+
+<br/>
+
+<a href="https://github.com/devaamsh2006/bus-booking-app">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
 ---
 
-## 🧠 [Fake Account Detection using GNNs](https://github.com/devaamsh2006/Fake_accounts_detection_using_gnn)
+# 🛠️ Tech Arsenal
 
-Graph Neural Network pipeline for detecting fake social media accounts.
+<div align="center">
 
-### Highlights
+## 💻 Programming Languages
 
-- GCN + GraphSAGE architecture
-- User relationship graph modelling
-- 94.5% ROC-AUC achieved
-- End-to-end ML workflow
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript&theme=dark" />
 
-`PyTorch Geometric` `GCN` `GraphSAGE` `Python`
+<br/><br/>
 
----
+## 🎨 Frontend
 
-## 🚌 [Bus Booking Platform](https://github.com/devaamsh2006/bus-booking-app)
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" />
 
-Full-stack booking platform with dynamic seat selection and booking management.
+<br/><br/>
 
-### Highlights
+## ⚙️ Backend
 
-- Authentication & booking workflows
-- REST APIs with Express
-- MongoDB integration
-- Driver job listing system
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
 
-`MERN Stack` `Node.js` `MongoDB` `React`
+<br/><br/>
 
----
+## 🗄️ Databases & Storage
 
-# ⚡ Tech Stack
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&theme=dark" />
 
-## 💻 Languages
+<br/><br/>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
-</p>
+## 🤖 AI & Machine Learning
 
-## 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
+<br/>
 
-## 🔧 Backend & Databases
+`Machine Learning` • `Deep Learning` • `GNNs` • `RAG`
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,mysql" />
-</p>
+`Random Forest` • `XGBoost` • `Scikit-learn`
 
-## 🤖 AI / ML
+<br/>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
+## 🔧 Tools & Platforms
 
-## 🛠 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&theme=dark" />
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+</div>
 
 ---
 
 # 🧩 DSA & Competitive Programming
 
-<p align="center">
+<div align="center">
 
-<a href="https://leetcode.com/u/devamsh06/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/devamsh06?theme=dark&font=Nunito&ext=heatmap" />
-</a>
+### 🧠 Problem Solving Profile
 
-</p>
+|       Platform      |   Achievement   |
+| :-----------------: | :-------------: |
+|     🟡 LeetCode     | **1921 Rating** |
+|  🧩 Problems Solved |     **400+**    |
+|     🟤 CodeChef     |    **Div 3**    |
+| 💻 Primary Language |     **C++**     |
 
-<p align="center">
+</div>
 
-<a href="https://www.codechef.com/users/devamsh06" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programmer-brown?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
+<br/>
 
-</p>
+My approach to DSA:
 
-```txt
-LeetCode Rating  : 1921
-Problems Solved  : 400+
-CodeChef         : Div 3
+```text
+Understand → Identify Pattern → Optimize → Implement → Analyze
 ```
 
-I enjoy solving problems that improve:
+I focus on building strong intuition around:
 
-- logical thinking
-- optimization skills
-- debugging ability
-- system-level intuition
+`Arrays`
 
-Patterns > memorization.
+`Strings`
+
+`Linked Lists`
+
+`Trees`
+
+`Graphs`
+
+`Dynamic Programming`
+
+`Greedy`
+
+`Sliding Window`
+
+`Two Pointers`
+
+`Binary Search`
+
+`Backtracking`
+
+`Hashing`
+
+> Patterns > Memorization.
 
 ---
 
-# 🏆 Experience & Leadership
+# 💼 Experience
 
-## 💼 Alfago — Student Intern
+## 📊 Alfago — Student Intern
 
-Worked on financial data ingestion and processing systems:
+Worked on financial data ingestion and processing pipelines involving structured and unstructured market data.
 
-- Automated NSE/BSE RSS ingestion
-- PDF/XML/CSV parsing pipelines
-- Symbol normalization systems
-- Structured market-data storage architecture
+### Contributions
+
+* 📡 Automated NSE/BSE RSS ingestion
+* 📄 PDF/XML/CSV processing pipelines
+* 🔄 Financial symbol normalization
+* 🗃️ Structured market-data storage
+* ⚙️ Automated data-processing workflows
+
+The experience strengthened my understanding of building reliable pipelines for **real-world data ingestion and transformation**.
 
 ---
+
+# 🏆 Leadership
 
 ## 👨‍💼 Chairperson — Krithomedh Technical Club
 
-Led technical initiatives and student events including:
+Leading technical initiatives and coordinating student-driven technology activities.
 
-- Coding contests
-- AI Week 2K26
-- Team coordination & event management
-- Student technical community building
+### Highlights
 
----
+* 💻 Organized coding contests
+* 🤖 Conducted AI Week 2K26
+* 👥 Coordinated technical teams
+* 🎯 Managed technical events
+* 🌱 Helped build a collaborative student developer community
 
-# 🤝 Team Philosophy
+Leadership taught me that building great products isn't only about writing good code.
 
-I can work as:
+It's also about:
 
-- an independent builder,
-- a collaborative teammate,
-- or the person coordinating the entire execution.
-
-I value:
-
-```txt
+```text
 Ownership
-Consistency
 Communication
+Consistency
+Collaboration
 Execution
 ```
 
-because great products are built by great teams.
-
 ---
 
-# 📈 Current Focus
+# 🔭 What I'm Building
 
 ```yaml
-building:
-  - scalable web applications
-  - ML-powered systems
-  - real-time platforms
+currently_building:
 
-learning:
+  - Scalable Full-Stack Applications
+  - Machine Learning Systems
+  - AI-Powered Products
+  - Real-Time Platforms
+
+exploring:
+
   - AI Engineering
   - System Design
   - Advanced Backend Architecture
+  - Distributed Systems
+  - Generative AI
 
-goal:
-  - Build impactful products at scale
+improving:
+
+  - Competitive Programming
+  - Machine Learning
+  - Software Architecture
+  - Production Engineering
+
+long_term_goal:
+
+  - Build technology that creates impact at scale
 ```
 
 ---
 
-# 📊 GitHub Stats
+# 🎯 Engineering Interests
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devaamsh2006&show_icons=true&theme=tokyonight" />
+| Area                      |    Focus   |
+| :------------------------ | :--------: |
+| 🌐 Full-Stack Development | 🔥🔥🔥🔥🔥 |
+| 🤖 AI / Machine Learning  | 🔥🔥🔥🔥🔥 |
+| 🧠 DSA                    | 🔥🔥🔥🔥🔥 |
+| 🏗️ System Design         |  🔥🔥🔥🔥  |
+| ⚙️ Backend Engineering    |  🔥🔥🔥🔥  |
+| 📊 Data Systems           |  🔥🔥🔥🔥  |
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaamsh2006&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devaamsh2006&theme=tokyonight" />
-
-</p>
+</div>
 
 ---
 
-# 📫 Connect With Me
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devaamsh2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaamsh2006&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=devaamsh2006&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devaamsh2006&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devaamsh2006/devaamsh2006/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🧠 Developer Mindset
+
+```javascript
+while (alive) {
+
+    learn();
+
+    build();
+
+    solveProblems();
+
+    makeMistakes();
+
+    improve();
+
+    ship();
+}
+```
+
+I believe the fastest way to grow as an engineer is:
+
+> **Build things slightly beyond what you currently know how to build.**
+
+---
+
+# 🤝 How I Work
+
+I am comfortable working as:
+
+```text
+👨‍💻 Independent Builder
+
+        ↓
+
+🤝 Collaborative Teammate
+
+        ↓
+
+👨‍💼 Team Coordinator
+
+        ↓
+
+🚀 Product Owner
+```
+
+Regardless of the role, I value **ownership and execution**.
+
+---
+
+# 🎓 Education
+
+### VNR Vignana Jyothi Institute of Engineering & Technology
+
+**Bachelor of Technology**
+
+Computer Science & Engineering
+
+📅 **2023 – 2027**
+
+---
+
+# 🎯 Current Mission
+
+<div align="center">
+
+### Build. Learn. Optimize. Ship. Repeat.
+
+</div>
+
+```text
+2026 Goals
+
+✓ Strengthen DSA
+
+✓ Build production-grade projects
+
+✓ Master System Design fundamentals
+
+✓ Build ML systems end-to-end
+
+✓ Explore Generative AI
+
+✓ Improve backend architecture knowledge
+
+✓ Contribute to impactful products
+```
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+### Have an interesting idea?
+
+### Let's build it.
+
+<br/>
+
+<a href="https://github.com/devaamsh2006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://devamshportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="mailto:devamsh2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://devamshportfolio.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<br/><br/>
 
-<a href="https://github.com/devaamsh2006" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### 📧 [devamsh2006@gmail.com](mailto:devamsh2006@gmail.com)
 
-<a href="https://www.linkedin.com/in/devaamsh-gangishetti-2441b6295/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>
-    "Build fast. Learn deeply. Lead responsibly."
-  </i>
-</p>
+<div align="center">
+
+## ⚡ Final Thought
+
+*"Great software isn't just written — it's designed, tested, improved, and shipped."*
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Keep+Learning+%F0%9F%A7%A0;Keep+Building+%F0%9F%9A%80;Keep+Solving+%F0%9F%92%BB;One+Commit+at+a+Time+%E2%9C%A8"/>
+
+<br/>
+
+### ⭐ Thanks for visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
